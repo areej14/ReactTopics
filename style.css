@@ -26,7 +26,7 @@ body{
     bottom: 0;
     background-image:linear-gradient(to right, rgb(36, 59, 56), rgb(61, 93, 122));
     width: 95%;
-    padding: 5px;
+    padding: 2px;
     margin: 0 auto;
 }
 ol {
