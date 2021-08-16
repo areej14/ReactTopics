@@ -51,6 +51,9 @@ body{
     position: relative;
     height:120px;
     box-sizing: border-box;
+
+    position:absolute;
+   bottom:0;
 }
 
 a{
@@ -67,12 +70,13 @@ a{
     
 }
 
-@media  screen and (max-width: 1159px) {
+/* @media  screen and (max-width: 1159px) {
     .footer {
         width:100%;
         margin-bottom: 0px;
+        padding: 30px;
         margin-top:60px;
         /* position: absolute; */
-        height:fit-content
+        /* height:fit-content
     }
-  }
+  } */ */
