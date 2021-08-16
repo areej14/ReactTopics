@@ -54,7 +54,6 @@ body {
     position: relative;
     height: 120px;
     box-sizing: border-box;
-    position: absolute;
     bottom: 0;
 }
 
