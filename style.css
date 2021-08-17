@@ -26,9 +26,11 @@ body {
     text-shadow: 0 2px 2 rgba(255, 255, 255, 0);
     /* text-decoration: underline; */
 }
-h2{
+
+h2 {
     text-align: center;
 }
+
 .title {
     margin-top: 30px;
 }
@@ -71,8 +73,13 @@ a {
 .footer-text {
     color: white;
 }
-.addinf{
+
+.addinf {
     text-align: center;
+}
+
+.image {
+    max-width: 70%;
 }
 
 @media screen and (max-width: 917px) {
@@ -92,8 +99,15 @@ a {
     .title {
         font-size: 25px;
     }
-    img{
+    img {
         width: 270px;
+    }
+    .title-2 {
+        font-size: 25px;
+    }
+    .image {
+        width: 100%;
+        height: 100%
     }
     /* .main-content {
         font
