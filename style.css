@@ -63,7 +63,7 @@ h2 {
 
 a {
     color: black;
-    /* text-decoration: dotted underline; */
+    
 }
 
 .footerText {
@@ -109,7 +109,5 @@ a {
         width: 100%;
         height: 100%
     }
-    /* .main-content {
-        font
-    } */
+    
 }
